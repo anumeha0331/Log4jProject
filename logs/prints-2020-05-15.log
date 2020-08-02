@@ -1,0 +1,7 @@
+12:25:57.147 [main] DEBUG alpha.Demo - Setting chrome driver property
+12:26:13.533 [main] INFO  alpha.Demo - Window Maximized
+12:26:13.533 [main] DEBUG alpha.Demo - Now hitting makemytrip server
+12:26:29.939 [main] INFO  alpha.Demo - Landed on makemytrip home page
+12:27:29.940 [main] INFO  alpha.Demo - waiting for the home page to be displayed
+12:27:32.520 [main] INFO  alpha.Demo - field from city is now active to take the data
+12:27:35.643 [main] INFO  alpha.Demo - waiting for options of the field from city to be visible
